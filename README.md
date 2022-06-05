@@ -1,4 +1,4 @@
-# Find Jobs
+# JobFinder
 
 ## Descrição do Projeto
 ---
@@ -14,7 +14,7 @@
 <img src="./img/readme.gif">
 <br>
 
-<a href="https://danilojpfreitas.github.io/JobFinder/" target="_blank"> Link para visualização do Projeto Finder Job</a>
+<a href="https://danilojpfreitas.github.io/JobFinder/" target="_blank"> Link para visualização do Projeto JobFinder</a>
 
 ## Tecnologias Utilizadas
 ---
