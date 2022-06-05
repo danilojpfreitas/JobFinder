@@ -14,7 +14,7 @@
 <img src="./img/readme.gif">
 <br>
 
-<a href="https://danilojpfreitas.github.io/JobFinder/" target="_blank"> Link para visualização do Projeto JobFinder</a>
+<a href="https://danilojpfreitas.github.io/JobFinder/" target="_blank"> Link para visualização do Projeto Finder Job</a>
 
 ## Tecnologias Utilizadas
 ---
