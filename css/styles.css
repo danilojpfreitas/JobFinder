@@ -159,8 +159,9 @@ nav:after {
     padding-bottom: 0px;
     border: 1px solid #ccc;
     border-radius: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 0px;
 }
 
 #lastjob-container ul li {
@@ -188,7 +189,7 @@ nav:after {
     display: inline-block;
     width: 50%;
     position: relative;
-    padding-left: 1%;
+    margin-left: 1%;
 }
 
 .company-box img {
@@ -980,6 +981,10 @@ footer .wrapper::after {
         padding-right: 2em;
     }
 
+    .locality p {
+        font-size: .75em;
+    }
+
     /* find jobs */
 
     #findjobs #search-form form input {
@@ -999,8 +1004,12 @@ footer .wrapper::after {
         font-size: 1em;
     }
 
-    .company-box .company-info p, .locality i, .locality p, .job_type span {
+    .company-box .company-info p, .locality i, .job_type span {
         font-size: .75em;
+    }
+
+    .locality p {
+        font-size: .6em;
     }
 
     .job_type {
