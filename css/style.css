@@ -87,7 +87,7 @@ nav:after {
 
 /* banner */
 #main-banner { 
-    background: url('../img/azul.jpg') no-repeat;
+    background-color: #338df3d2;
     background-size: cover;
     background-position: 0 55%;
     position: relative;
@@ -294,7 +294,7 @@ nav:after {
 
 /* send jobs container */
 #sendjobs-container {
-    background: url('../img/azul.jpg') no-repeat;
+    background-color: #338df3d2;
     background-size: cover;
     background-position: 0 25%;
     padding: 15em 0;
@@ -386,7 +386,7 @@ nav:after {
 
 /* testmony container */
 #testmony-container {
-    background: url('../img/azul.jpg') no-repeat;
+    background-color: #338df3d2;
     background-size: cover;
     padding: 10em 0;
 }
